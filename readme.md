@@ -30,11 +30,6 @@
 <p style="text-align: justify;">Το κόστος όλων αυτών ανήλθε στα €150.</p>
 <p style="text-align: justify;">H σχεδίαση του κυκλώματος έγινε λαμβάνοντας υπόψη όσα ανακαλύφθηκαν από την έρευνα που πραγματοποιήσαμε. Στην αρχή είδαμε τον κάθε αισθητήρα και σύστημα ενεργοποίησης, αλλά στο τέλος τα συνθέσαμε όλα μαζί. Η έρευνά μας, τα σχέδια των κυκλωμάτων και ο κώδικας για την υλοποίηση του έργου μας είναι διαθέσιμα στο github (<a href="https://github.com/1epaltrik/combots">https://github.com/1epaltrik/combots</a>).</p>
 <p style="text-align: left;">Tο βίντεο με την παρουσίαση του έργου, από την αρχή μέχρι και την ολοκλήρωσή του θα το βρείτε στην ιστοσελίδα <a href="https://youtu.be/cvGBoXvN4oI">https://youtu.be/cvGBoXvN4oI</a></p>
-<p style="text-align: justify;">
-<iframe width="674" height="379" src="https://www.youtube.com/embed/cvGBoXvN4oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
 <p style="text-align: justify;">Στόχος μας μετά τον διαγωνισμό είναι να παρουσιάσουμε την ιδέα μας στον Δήμο που κατοικούμε, προτείνοντας να τοποθετηθούν στην πόλη κάδοι κομποστοποίησης μεγαλύτερης κλίμακας που θα χρησιμοποιούν τις τεχνολογίες που ανακαλύψαμε για τη συμβολή της έξυπνης πόλης μας στην κυκλική οικονομία.</p>
 &nbsp;
 
-[video width="1280" height="720" mp4="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/logo-video-ComBots.mp4"][/video]
